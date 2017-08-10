@@ -1,4 +1,4 @@
-# OS-Threads
+# Threads
 
 ### Assignment, class and language
 This is the solution to the assignment **Threads** of class **operating systems 1,** written in Python (2.7) with my two team members [Korbinian Karl](https://github.com/korbster) and [Ehsan Moslehi](https://github.com/eca852).
